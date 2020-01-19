@@ -1,3 +1,13 @@
+Q2. Develop a python code for the following example: A binary interactive system is provided with a series of information: 
+a.	I am a human being
+b.	I am good
+c.	Good graders study well
+d.	Humans love graders
+e.	Every human does not study well
+With the help of this information, where machine can only provide yes/no answer, solve the following query.
+Is every human good grader? (4)
+
+#ans:
 print("only answer as yes or no")
 l=[]
 l2=[]
